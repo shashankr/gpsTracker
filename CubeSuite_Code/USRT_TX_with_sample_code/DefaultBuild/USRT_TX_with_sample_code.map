@@ -131,7 +131,7 @@ Directive: ;/***********************************************************
 *** Link information ***
 
     45 output segment(s)
-  718H byte(s) real data
+  71FH byte(s) real data
    649 symbol(s) defined
 
 
@@ -416,37 +416,37 @@ Directive: ;/***********************************************************
                                       00277H    00002H
                   @@BASE   Application
                                       00279H    00000H
-         @@CODEL                      00279H    002FBH  CSEG
-                  @@CODEL  r_main     00279H    00029H
+         @@CODEL                      00279H    00302H  CSEG
+                  @@CODEL  r_main     00279H    00030H
                   @@CODEL  r_systeminit
-                                      002A2H    0002BH
-                  @@CODEL  r_cg_cgc   002CDH    00010H
+                                      002A9H    0002BH
+                  @@CODEL  r_cg_cgc   002D4H    00010H
                   @@CODEL  r_cg_cgc_user
-                                      002DDH    00005H
+                                      002E4H    00005H
                   @@CODEL  r_cg_port
-                                      002E2H    00006H
+                                      002E9H    00006H
                   @@CODEL  r_cg_port_user
-                                      002E8H    00000H
+                                      002EFH    00000H
                   @@CODEL  r_cg_intc
-                                      002E8H    00042H
+                                      002EFH    00042H
                   @@CODEL  r_cg_intc_user
-                                      0032AH    00000H
+                                      00331H    00000H
                   @@CODEL  r_cg_serial
-                                      0032AH    00164H
+                                      00331H    00164H
                   @@CODEL  r_cg_serial_user
-                                      0048EH    00006H
+                                      00495H    00006H
                   @@CODEL  r_cg_timer
-                                      00494H    00091H
+                                      0049BH    00091H
                   @@CODEL  r_cg_timer_user
-                                      00525H    00000H
-                  @@CODEL  r_cg_wdt   00525H    00014H
+                                      0052CH    00000H
+                  @@CODEL  r_cg_wdt   0052CH    00014H
                   @@CODEL  r_cg_wdt_user
-                                      00539H    00000H
+                                      00540H    00000H
                   @@CODEL  Application
-                                      00539H    0003BH
-         @@LCODEL                     00574H    0001CH  CSEG
-                  @@LCODEL exit       00574H    0001CH
-* gap *                               00590H    01870H
+                                      00540H    0003BH
+         @@LCODEL                     0057BH    0001CH  CSEG
+                  @@LCODEL exit       0057BH    0001CH
+* gap *                               00597H    01869H
          ??OCDROM                     01E00H    00200H  CSEG
 
   MEMORY=RAM

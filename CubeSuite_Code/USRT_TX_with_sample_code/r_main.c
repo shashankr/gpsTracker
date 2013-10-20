@@ -75,7 +75,7 @@ void main(void)
     {
        //if(start==01)
        //{
-	 //Delay(50);      
+	 Delay(50);      
          start = 00;
 	 R_UART1_Send(ATPDUText, 10);
 	 Delay(50);

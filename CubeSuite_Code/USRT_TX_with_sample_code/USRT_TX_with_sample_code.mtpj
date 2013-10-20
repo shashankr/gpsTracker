@@ -215,7 +215,22 @@
     </Instance>
   </Class>
   <Class Guid="0d548289-d5e9-4893-9a8f-9374b13f19a9">
+    <Instance Guid="43cfaa7b-5701-4c7a-9305-ed2cbce43e85">
+      <MemoCount>0</MemoCount>
+    </Instance>
     <Instance Guid="f1f0860f-a92e-48cb-8c86-856e039c93c1">
+      <MemoCount>0</MemoCount>
+    </Instance>
+    <Instance Guid="8ee95162-db98-4002-8424-849971bdf802">
+      <MemoCount>0</MemoCount>
+    </Instance>
+    <Instance Guid="fe720484-6670-4b6d-847f-a428f3c458bc">
+      <MemoCount>0</MemoCount>
+    </Instance>
+    <Instance Guid="d24ba72c-ec86-4b0b-bbeb-bc307af4a090">
+      <MemoCount>0</MemoCount>
+    </Instance>
+    <Instance Guid="c000f11f-5574-4bec-b023-a499a719f566">
       <MemoCount>0</MemoCount>
     </Instance>
     <Instance Guid="f063ede6-e93a-4718-b562-c82c985a44a4">
@@ -227,33 +242,15 @@
     <Instance Guid="34b00974-e0d1-44fa-8c4b-b14254688470">
       <MemoCount>0</MemoCount>
     </Instance>
-    <Instance Guid="e271249d-bb9c-4a7b-bff0-19f62d02149e">
-      <MemoCount>0</MemoCount>
-    </Instance>
-    <Instance Guid="43cfaa7b-5701-4c7a-9305-ed2cbce43e85">
-      <MemoCount>0</MemoCount>
-    </Instance>
     <Instance Guid="778835f4-e9d6-403f-9e74-228e28b61c18">
       <MemoCount>0</MemoCount>
     </Instance>
-    <Instance Guid="8ee95162-db98-4002-8424-849971bdf802">
-      <MemoCount>0</MemoCount>
-    </Instance>
-    <Instance Guid="d24ba72c-ec86-4b0b-bbeb-bc307af4a090">
-      <MemoCount>0</MemoCount>
-    </Instance>
-    <Instance Guid="c000f11f-5574-4bec-b023-a499a719f566">
-      <MemoCount>0</MemoCount>
-    </Instance>
-    <Instance Guid="fe720484-6670-4b6d-847f-a428f3c458bc">
+    <Instance Guid="e271249d-bb9c-4a7b-bff0-19f62d02149e">
       <MemoCount>0</MemoCount>
     </Instance>
   </Class>
   <Class Guid="78a5c5cd-76cb-4bcc-a031-3020011fbc9a">
     <Instance Guid="f615a7de-b2b4-4a88-83c4-7e0cad08f03f">
-      <MemoCount>0</MemoCount>
-    </Instance>
-    <Instance Guid="a7c5f7b0-328e-4d7d-a78e-4608f80f1358">
       <MemoCount>0</MemoCount>
     </Instance>
   </Class>
@@ -1474,7 +1471,7 @@ cl0rmf.lib
       &lt;/Effect&gt;
     &lt;/IICA0&gt;
     &lt;ProjectName Name="PrjName" Text="USRT_TX_with_sample_code" /&gt;
-    &lt;ProjectPath Name="PrjPath" Text="C:\Users\Krishnan\Desktop\GPS-GSM project\Renesas\Experiments\USRT_TX_with_sample_code" /&gt;
+    &lt;ProjectPath Name="PrjPath" Text="E:\ReapSquare\Project 1 - VTS\Codezinga\gpsTracker\CubeSuite_Code\USRT_TX_with_sample_code" /&gt;
     &lt;ProjectKind Name="PrjKind" Text="Project78K0R" /&gt;
     &lt;DeviceName Name="DeviceName" Fixed="" Text="RL78G12" /&gt;
     &lt;MCUName Name="MCUName" Text="RL78G12_30pin" /&gt;
@@ -2252,43 +2249,43 @@ cl0rmf.lib
     &lt;/FUNC&gt;
     &lt;TAG&gt;
       &lt;GlobleUserTag&gt;
+        &lt;pior_value Name="pior_value" Value="00" /&gt;
         &lt;cg_security7 Name="cg_security7" Value="00" /&gt;
+        &lt;cg_security3 Name="cg_security3" Value="00" /&gt;
         &lt;wdt_option Name="wdt_option" Value="FF" /&gt;
         &lt;cg_security6 Name="cg_security6" Value="00" /&gt;
         &lt;cg_security1 Name="cg_security1" Value="00" /&gt;
         &lt;lvi_option Name="lvi_option" Value="FF" /&gt;
-        &lt;cg_security5 Name="cg_security5" Value="00" /&gt;
-        &lt;cg_security0 Name="cg_security0" Value="00" /&gt;
-        &lt;cg_security4 Name="cg_security4" Value="00" /&gt;
         &lt;clock_option Name="clock_option" Value="E0" /&gt;
-        &lt;cg_security3 Name="cg_security3" Value="00" /&gt;
+        &lt;cg_security4 Name="cg_security4" Value="00" /&gt;
+        &lt;cg_security0 Name="cg_security0" Value="00" /&gt;
         &lt;cg_security9 Name="cg_security9" Value="00" /&gt;
         &lt;cg_security2 Name="cg_security2" Value="00" /&gt;
-        &lt;pior_value Name="pior_value" Value="00" /&gt;
+        &lt;cg_security8 Name="cg_security8" Value="00" /&gt;
         &lt;cg_option Name="cg_option" Value="04" /&gt;
         &lt;cg_iawctl_value Name="cg_iawctl_value" Value="00" /&gt;
-        &lt;cg_security8 Name="cg_security8" Value="00" /&gt;
+        &lt;cg_security5 Name="cg_security5" Value="00" /&gt;
         &lt;ocdstart Name="ocdstart" Value="01E00" /&gt;
       &lt;/GlobleUserTag&gt;
     &lt;/TAG&gt;
     &lt;TAG&gt;
       &lt;GlobleUserTag&gt;
-        &lt;pior_value Name="pior_value" Value="00" /&gt;
         &lt;cg_security7 Name="cg_security7" Value="00" /&gt;
-        &lt;cg_security3 Name="cg_security3" Value="00" /&gt;
         &lt;wdt_option Name="wdt_option" Value="FF" /&gt;
         &lt;cg_security6 Name="cg_security6" Value="00" /&gt;
         &lt;cg_security1 Name="cg_security1" Value="00" /&gt;
         &lt;lvi_option Name="lvi_option" Value="FF" /&gt;
-        &lt;clock_option Name="clock_option" Value="E0" /&gt;
-        &lt;cg_security4 Name="cg_security4" Value="00" /&gt;
+        &lt;cg_security5 Name="cg_security5" Value="00" /&gt;
         &lt;cg_security0 Name="cg_security0" Value="00" /&gt;
+        &lt;cg_security4 Name="cg_security4" Value="00" /&gt;
+        &lt;clock_option Name="clock_option" Value="E0" /&gt;
+        &lt;cg_security3 Name="cg_security3" Value="00" /&gt;
         &lt;cg_security9 Name="cg_security9" Value="00" /&gt;
         &lt;cg_security2 Name="cg_security2" Value="00" /&gt;
-        &lt;cg_security8 Name="cg_security8" Value="00" /&gt;
+        &lt;pior_value Name="pior_value" Value="00" /&gt;
         &lt;cg_option Name="cg_option" Value="04" /&gt;
         &lt;cg_iawctl_value Name="cg_iawctl_value" Value="00" /&gt;
-        &lt;cg_security5 Name="cg_security5" Value="00" /&gt;
+        &lt;cg_security8 Name="cg_security8" Value="00" /&gt;
         &lt;ocdstart Name="ocdstart" Value="01E00" /&gt;
       &lt;/GlobleUserTag&gt;
     &lt;/TAG&gt;
