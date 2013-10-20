@@ -1,0 +1,2 @@
+﻿W0403023:Cannot reflect build option(Set user option byte) to Code generator(Design Tool). Please change the setting of build option or Code Generator(Design Tool).
+W0403029:Please select pin assignment setting.
